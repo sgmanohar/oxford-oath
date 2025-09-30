@@ -15,3 +15,7 @@ This has occurred, for example in the work required to tag offensive content, an
 ## Peace
 
 In Christian theology, peace is an end that encompasses a holistic view of the wellbeing of people, communities, and the world. Most Christian theologians recognise the necessity of the exercise of force and even violence to oppose evil, and so the use of force can be a means achieving peace. The point of the reference is to maintain a differentiation between means and ends.
+
+## Objects of attention
+
+Objects of attention are...
