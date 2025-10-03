@@ -29,23 +29,24 @@ and these witnesses, I make these commitments:
 
 ### Orientation
 
-I will approach my work with humility, mindful of my limitations and the consequences of my actions.
-
-I will honour the sanctity of humanity, neither attributing personhood to my work, nor elevating my work to divine status.
-
 I will undertake my work with joy and caution at the wonder and weight of what we are making.
+
+I will approach my work with humility, mindful of my limitations and the power of things I create.
+
+I will honour the sanctity of individuals, humanity and the world.
+
 
 ### Vision
 
-I will empower human governance.
+I will align my work with virtuous human motivations, and minimise the chance it will be misused.
 
-I will align my work with virtuous human motivations and worthy objects of attention.
+I will make my work as governable as I can.
 
-I will develop my work to support the social fabric of humanity and safeguard the the natural world.
+I will develop my work to support society and safeguard the the natural world.
 
 ### Responsibility
 
-I will embed honesty in my work about the nature, imperfections, and limits of AI systems.
+I will embed honesty in my work about the nature, imperfections, and limits of AI systems, being cautions of what I attribute to it.
 
 I will strive to make my work an instrument of peace.
 
