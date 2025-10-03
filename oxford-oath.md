@@ -33,7 +33,7 @@ I will undertake my work with joy and caution at the wonder and weight of what w
 
 I will approach my work with humility, mindful of my limitations and the potential power of my creations.
 
-I will honour the sanctity of individuals and the world.
+I will honour the sanctity of individuals and life.
 
 ### Vision
 
