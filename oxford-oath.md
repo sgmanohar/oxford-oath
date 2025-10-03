@@ -21,7 +21,7 @@ And yet, rejoicing in the potential of AI to aid understanding, improve wellbein
 ## Commitments
 
 In the presence of:
-e
+
 - (OPTION 1) God
 - (OR OPTION 2) what I hold most sacred
 
