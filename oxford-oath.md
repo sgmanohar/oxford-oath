@@ -16,7 +16,7 @@ Recognising that AI work requires the exercise of judgement for technical choice
 
 Lamenting the ways AI has already been used to erode attention, displace human connection, degrade the dignity of work, and inflict harm upon the natural world;
 
-And yet, rejoicing in the potential of AI to aid understanding, improve wellbeing, democratise opportunity, and empower humanity in our shared vocation to seek the true, the good, and the beautiful;
+And yet, rejoicing in the potential of AI to aid understanding, improve wellbeing, democratise opportunity, and empower us in our shared vocation to seek the true, the good, and the beautiful;
 
 ## Commitments
 
