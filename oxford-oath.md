@@ -1,14 +1,8 @@
 # Oxford oath text
 
-## Motto
-
-Ostendat ex bona conversatione operationem suam in mansuetudine sapientiae. (James 3:13)
-
-*Show by good conduct that your works come from the humility of wisdom.*
-
 ## Preamble
 
-Believing in the sanctity of every human person, and that technology ought to serve us and contribute to the common good;
+Believing in the dignity of every human person, and that technology ought to serve us and contribute to the common good;
 
 Conscious that our creativity is both a gift and a responsibility, and that the tools we form in turn form us;
 
@@ -16,22 +10,17 @@ Recognising that AI work requires the exercise of judgement for technical choice
 
 Lamenting the ways AI has already been used to erode attention, displace human connection, degrade the dignity of work, and inflict harm upon the natural world;
 
-And yet, rejoicing in the potential of AI to aid understanding, improve wellbeing, democratise opportunity, and empower humanity in our shared vocation to seek the true, the good, and the beautiful;
+And yet, embracing the potential of AI to aid understanding, improve wellbeing, democratise opportunity, and empower humanity in our shared vocation to seek the true, the good, and the beautiful;
 
 ## Commitments
 
-In the presence of:
-
-- (OPTION 1) God
-- (OR OPTION 2) what I hold most sacred
-
-and these witnesses, I make these commitments:
+In the presence of these witnesses, I make these commitments:
 
 ### Orientation
 
 I will approach my work with humility, mindful of my limitations and the consequences of my actions.
 
-I will honour the sanctity of humanity, neither attributing personhood to my work, nor elevating my work to divine status.
+I will honour the dignity of humanity, and avoid attributing personhood to my work.
 
 I will undertake my work with joy and caution at the wonder and weight of what we are making.
 
@@ -55,4 +44,4 @@ I will guard against illusions that erode understanding of reality, harmful asym
 
 I will uphold the integrity of this oath, and when faced with a conflict between these commitments and the demands of my profession, I will give voice to my conscience and act as I am able.
 
-(OPTIONAL: May God who has given me the will to profess these commitments grant me also the grace to perform them.)
+
