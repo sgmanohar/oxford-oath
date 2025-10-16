@@ -8,7 +8,7 @@ Conscious that our creativity is both a gift and a responsibility, and that the 
 
 Recognising that AI work requires the exercise of judgement for technical choices made with limited information and agency, and which have consequences for humans;
 
-Lamenting the ways AI has already been used to erode attention, displace human connection, degrade the dignity of work, and inflict harm upon the natural world;
+Regretting the ways AI has already been used to erode attention, displace human connection, degrade the dignity of work, and inflict harm upon the natural world;
 
 And yet, embracing the potential of AI to aid understanding, improve wellbeing, democratise opportunity, and empower humanity in our shared vocation to seek the true, the good, and the beautiful;
 
