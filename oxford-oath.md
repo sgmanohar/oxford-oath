@@ -8,7 +8,7 @@ Ostendat ex bona conversatione operationem suam in mansuetudine sapientiae. (Jam
 
 ## Preamble
 
-Believing in the sanctity of every human person, and that technology ought to serve us and contribute to the common good;
+Believing in the sanctity of every individual, and that technology ought to serve us and contribute to the common good;
 
 Conscious that our creativity is both a gift and a responsibility, and that the tools we form in turn form us;
 
