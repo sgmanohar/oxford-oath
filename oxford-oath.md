@@ -14,6 +14,8 @@ Conscious that our creativity is both a gift and a responsibility, and that the 
 
 Recognising that AI work requires the exercise of judgement for technical choices made with limited information and agency, and which have consequences for humans;
 
+Acknowledging my responsibilty for balancing freedom and control, environment and economy, the benefits for today and tomorrow, the concerns of the individual and community, and of the user and the used. 
+
 Lamenting the ways AI has already been used to erode attention, displace human connection, degrade the dignity of work, and inflict harm upon the natural world;
 
 And yet, rejoicing in the potential of AI to aid understanding, improve wellbeing, democratise opportunity, and empower us in our shared vocation to seek the true, the good, and the beautiful;
